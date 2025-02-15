@@ -1,4 +1,4 @@
-# Indian Sign Language Detector
+# Indian Sign Language Translator (VideoToSign)
 
 ## About the Project
 Indian Sign Language Detector is a machine learning-based project that translates hand gestures into corresponding letters and numbers. Using MediaPipe for hand tracking and a deep learning model for classification, it helps recognize Indian Sign Language (ISL) from real-time video input.
