@@ -37,7 +37,7 @@ python main1.py
 - The program identifies words/phrases and displays corresponding ISL signs.
 - Say "goodbye" to exit.
 
-## To run the application.
+## To run the application
 1. Open the Downloads folder and then open the terminal.
 2. From the terminal, run the *main* python file using the command **python main.py**.
 3. The application interface appears on the screen.
@@ -86,6 +86,6 @@ respective GIFs of the Phrase.
 
 Feel free to fork the repository, enhance features, and submit pull requests.
 
-## License
+## Credits
 
 Created by Shashank Singh[@shashankexore](https://github.com/shashankexore) and Anushka Banerjee [@anushka369](https://github.com/anushka369).
